@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.nxlrx.cn/sitemap.xml
